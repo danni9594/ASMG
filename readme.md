@@ -1,4 +1,4 @@
-# ASMG
+# ASMG (Adaptive Sequential Model Generation)
 This is our experimental code for RecSys 2021 paper "Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems".  
 
 # Requirements
