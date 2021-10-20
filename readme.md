@@ -100,3 +100,18 @@ Here are some examples of the possible paths that the evaluation results may res
 `Tmall/ASMGgru_multi/ckpts/ASMGgru_multi_linear_train11-23_test24-30_4emb_4mlp_1epoch_3_0.01/date20141030/test_metrics.txt`
    
 `MovieLens/IU/ckpts/IU_train11-23_test24-30_1epoch_0.001/period30/test_metrics.txt`
+
+
+# Citation
+
+If you find this repo useful in your research, please cite the following:
+
+```
+@inproceedings{peng2021learning,
+  title={Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems},
+  author={Peng, Danni and Pan, Sinno Jialin and Zhang, Jie and Zeng, Anxiang},
+  booktitle={Fifteenth ACM Conference on Recommender Systems},
+  pages={411--421},
+  year={2021}
+}
+```
