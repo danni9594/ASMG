@@ -3,7 +3,7 @@ This is our experimental code for RecSys 2021 paper "Learning an Adaptive Meta M
 
 The paper is available [here](https://github.com/danni9594/ASMG/blob/master/paper.pdf).\
 The video is available [here](https://dl.acm.org/doi/10.1145/3460231.3474239).\
-The slide is available [here](https://github.com/danni9594/ASMG/blob/master/paper.pdf).
+The slide is available [here](https://github.com/danni9594/ASMG/blob/master/slide.pdf).
 
 # Requirements
 tensorflow 1.4.0  
