@@ -1,5 +1,9 @@
-# ASMG (Adaptive Sequential Model Generation)
+# Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems
 This is our experimental code for RecSys 2021 paper "Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems".  
+
+The paper is available [here](https://github.com/danni9594/ASMG/blob/master/paper.pdf).\
+The video is available [here](https://dl.acm.org/doi/10.1145/3460231.3474239).\
+The slide is available [here](https://github.com/danni9594/ASMG/blob/master/paper.pdf).
 
 # Requirements
 tensorflow 1.4.0  
